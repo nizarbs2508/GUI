@@ -1,0 +1,21 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\User\eclipse-workspace\tcc-gui\tcc-gui\TCC-GUI.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\User\eclipse-workspace\tcc-gui\tcc-gui\.
+Requires JDK:	Yes
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	
+JRE paths:	C:\Program Files\Java\jdk-19
+Check launcher:	C:\Program Files\Java\jdk-19\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-19\bin\javac.exe (OK)
+Version string: 1.019.000_002 / 64-Bit (OK)
+Heap -Xms:	Requested 512 MB / 0%, Available: 7249 MB, Heap size: 512 MB
+Heap -Xmx:	Requested 1024 MB / 0%, Available: 7249 MB, Heap size: 1024 MB
+Launcher:	C:\Program Files\Java\jdk-19\bin\javaw.exe
+Launcher args:	-Xms512m -Xmx1024m -jar "C:\Users\User\eclipse-workspace\tcc-gui\tcc-gui\TCC-GUI.exe"
+Args length:	85/32768 chars
+Exit code:	0

@@ -1,0 +1,27 @@
+{
+  "resources": {
+    "includes": [
+      {
+        "pattern": "properties/messages_de.properties"
+      },
+      {
+        "pattern": "properties/messages_en.properties"
+      },
+      {
+        "pattern": "properties/messages_es.properties"
+      },
+      {
+        "pattern": "properties/messages_fr.properties"
+      },
+      {
+        "pattern": "properties/messages_it.properties"
+      },
+      {
+        "pattern": "properties/messages_nl.properties"
+      },
+      {
+        "pattern": "properties/messages_pt.properties"
+      }
+    ]
+  }
+}
